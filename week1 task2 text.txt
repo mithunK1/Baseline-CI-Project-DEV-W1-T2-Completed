@@ -1,0 +1,18 @@
+cd ..
+
+cd backend
+
+py app.py
+
+
+cd ..
+
+cd Baseline-CI-Project
+
+dir
+
+cd frontend
+
+npm install
+
+node index.js
